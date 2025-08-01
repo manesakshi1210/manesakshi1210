@@ -43,15 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=radical" alt="Stats" />
-  <img src="https://streak-stats.demolab.com?user=yourgithub&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🌍 Let’s Connect, Collaborate & Contribute!
 
 If you're new to open source, don't hesitate to reach out!  
