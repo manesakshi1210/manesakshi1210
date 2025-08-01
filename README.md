@@ -19,7 +19,7 @@
 
 <p>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>manesakshi1210@gmail.com </a>
-  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />https://www.linkedin.com/in/sakshi-mane1210/</a>
+  <br><a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />https://www.linkedin.com/in/sakshi-mane1210/</a><br>
   <a href="https://github.com/yourgithub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />https://github.com/manesakshi1210/</a>
 </p>
 
