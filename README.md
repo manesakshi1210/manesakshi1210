@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sakshi Mane – GSSoC'25 Mentor</h1>
+<h1 align="center">Hi 👋, I'm Sakshi Mane – OSCI'25 MH-State Lead||GSSoC'25 Mentor||</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F76B8A&center=true&vCenter=true&width=435&lines=Open+Source+Enthusiast;GSSoC'25+Mentor;Helping+New+Contributors+Grow;Lifelong+Learner+%F0%9F%92%AB" alt="Typing SVG" />
